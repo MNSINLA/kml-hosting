@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Closest Airports</name>
+    <Folder>
+      <name>Closest Airports</name>
+      <Placemark>
+        <name>Project Location</name>
+        <Style>
+          <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-68.82136,44.766671,0</coordinates>
+        </Point>
+        <LookAt>
+          <longitude>-68.82136</longitude>
+          <latitude>44.766671</latitude>
+          <altitude>0</altitude>
+          <range>10000</range>
+          <tilt>0</tilt>
+          <heading>0</heading>
+        </LookAt>
+      </Placemark>
+      <Placemark>
+        <name>Bangor International Airport</name>
+        <description>&lt;![CDATA[
+        Name: Bangor International Airport (BGR)&lt;br&gt;
+        Distance: 4.6 km&lt;br&gt;
+        Type: medium_airport&lt;br&gt;
+        Municipality: Bangor&lt;br&gt;
+        Region: US-ME&lt;br&gt;
+        Country: US
+        ]]&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffffffff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-68.828102,44.8074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dewitt Field - Old Town Municipal Airport</name>
+        <description>&lt;![CDATA[
+        Name: Dewitt Field - Old Town Municipal Airport (OLD)&lt;br&gt;
+        Distance: 23.7 km&lt;br&gt;
+        Type: small_airport&lt;br&gt;
+        Municipality: Old Town&lt;br&gt;
+        Region: US-ME&lt;br&gt;
+        Country: US
+        ]]&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffffffff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-68.674301,44.952801,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hancock County-Bar Harbor Airport</name>
+        <description>&lt;![CDATA[
+        Name: Hancock County-Bar Harbor Airport (BHB)&lt;br&gt;
+        Distance: 50.6 km&lt;br&gt;
+        Type: medium_airport&lt;br&gt;
+        Municipality: Bar Harbor&lt;br&gt;
+        Region: US-ME&lt;br&gt;
+        Country: US
+        ]]&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffffffff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-68.3615036,44.45000076,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
